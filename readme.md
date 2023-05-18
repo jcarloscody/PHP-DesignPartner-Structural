@@ -2,8 +2,6 @@
 
 Anotações e rascunhos de estudos
 
-[**GitHub**](https://github.com/jcarloscody/PHP-DesignPartner-Structural)
-
 [Parte 1](https://github.com/jcarloscody/PHP-DesignPartner-Behavioral)
 
 - **Adapter**
